@@ -1,2 +1,2 @@
-# Data-Analysis
-AMATH 482 - Computational Methods for Data Analysis
+# Data-Analysis AMATH 482 - Computational Methods for Data Analysis
+
