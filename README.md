@@ -6,6 +6,6 @@ Assignment 2: Reproduce the Guitar and Bass Music Score
 
 Assignment 3: PCA and a Spring-Mass System
 
-Assignment 3: Classifying Digits from the MNIST Data Set
+Assignment 4: Classifying Digits from the MNIST Data Set
 
 Assignment 5: Background Subtraction in Video Streams
